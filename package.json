@@ -1,0 +1,17 @@
+{
+  "name": "file-game",
+  "version": "1.0.0",
+  "description": "A game-based file explorer",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jonathan Sellier",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.6"
+  },
+  "dependencies": {
+    "phaser": "^3.16.2"
+  }
+}
